@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+tadayayalang.so
+tadayayalang.dylib
+tadayayalang.dll
+tadayayalang.a
+tadayayalang.lib
+tadayayalang-test-*
+*.exe
+*.o
+*.obj
+*.lst
