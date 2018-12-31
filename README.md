@@ -26,6 +26,10 @@ PLEASE DON'T COMPILE THIS
 LOVE, SALTY
 ```
 
+## Requesting / Discussing features and reporting bugs
+
+Please feel free to create an issue on the [issues page](https://github.com/CodeMyst/TadayayaLang/issues)
+
 ## How to build
 
 Download dmd (or any D compiler, only dmd is tested) and simply build it.
