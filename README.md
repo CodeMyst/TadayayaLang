@@ -2,6 +2,8 @@
 
 A compiler for the Tadayaya Language written in D. **Works only on Windows for now**
 
+*This is obviously a joke program as it ignores any input and just spits out the smallest possible Windows PE executable I found. Might become a real thing in the future, who knows.*
+
 ## How to use
 
 Either compile yourself or download the compiler from the [releases page](https://github.com/CodeMyst/TadayayaLang/releases).
