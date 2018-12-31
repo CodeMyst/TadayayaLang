@@ -16,6 +16,8 @@ tadayayalang.exe --input yourfile.ayaya --output executablename
 
 After that you will get an `executablename.exe` file you can run.
 
+Here's a small video demonstrating how it works: [Tadayaya Language Compiler - Streamable](https://streamable.com/xltrh)
+
 ## Sample Tadayaya Program
 
 ```ayaya
