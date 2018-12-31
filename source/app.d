@@ -12,6 +12,5 @@ void main (string [] args)
 		"input", &input,
 		"output", &output);
 
-
 	write (output ~ ".exe", exec);
 }
